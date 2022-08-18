@@ -19,7 +19,7 @@ namespace firstproject
             j = Convert.ToInt32(Console.ReadLine());
             k = i + j;
             Console.WriteLine("The value of k is" +" "+ k);
-            Console.WriteLine("my first push");
+            Console.WriteLine("Hello all welcome");
             Console.ReadLine(); 
 
         }
